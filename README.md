@@ -6,10 +6,10 @@ Beschreibungen und Tipps von Videospielen
 - Videospiele müssen noch festgelegt werden
 
 Arbeitsschritte: 
-Prompts ausdenken/aussuchen und optimieren (Beide)
-Persönlicher Goldstandard (Senem) 
-System laufen lassen (Niklas)
-Ergebnisse evaluieren (Beide)
+- Prompts ausdenken/aussuchen und optimieren (Beide)
+- Persönlicher Goldstandard (Senem) 
+- System laufen lassen (Niklas)
+- Ergebnisse evaluieren (Beide)
 
 
 ## verwendete Daten
