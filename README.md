@@ -19,6 +19,12 @@ Arbeitsschritte:
 
 ## Games
 - Assassins Creed Shadows
+  - Action Adventure Spiel im Japan des 16. Jahrhunderts 
+  - Machtkämpfe zwischen Fürsten 
+  - Zwei Hauptfiguren: Naoe (Shinobi) und Yasuke (Samurai) 
+  - Hauptfiguren tragen Konflikt zwischen Assassinen und Templern aus 
+  - Vorgegebener Spielverlauf
+
 - Assassins Creed Origins
 - Minecraft
 - EA Sports FC / Fifa
