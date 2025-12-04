@@ -26,14 +26,57 @@ Arbeitsschritte:
   - Vorgegebener Spielverlauf
 
 - Assassins Creed Origins
+  - Action Adventure im antiken Ägypten 
+  - Eine Hauptfigur: Bayek (Medjay = Nomadischer Krieger)
+  - Hauptfigur rächt die Ermodrung seines Sohnes und gründet die Bruderschaft der Assassinen  
+  - Vorgegebener Spielverlauf
+
 - Minecraft
+  - Welt, die aus Blöcken besteht und nach der eigenen Vorstellung gestaltet werden kann 
+  - Verschiedene Modi: Überlebensmodus und Kreativmodus 
+    - Überlebensmodus: Ressourcen müssen gesammelt werden und Spieler:innen kämpfen gegen Monster
+    - Kreativmodus: Unbegrenzte Ressourcen und Spieler:innen könne sich frei durch die ganze Welt bewegen und werden nicht von Monstern angegriffen
+    - Kein Vorgegebener Spielverlauf 
+
 - EA Sports FC / Fifa
+  - Sport-Simulationsspiel (Fußball) 
+  - Spieler:innen können in verschiedenen Modi eigene Fußball-Turniere spielen 
+    - Modi: Online-Modus, Karriere-Modus, Ultimate-Team, schnelle Spiele  
+  - Gespielt wird mit existierenden Mannschaften aus der realen Welt 
+  - Einzelne Spieler können gesteuert werden oder auch ganze Mannschaften
+
 - Need for Speed
+  - Auto-Rennspiel, in dem Rennen gefahren und Autos getuned werden können 
+  - Inhalt variiert nach Spiel, Spielprinzip bleibt derselbe (Rennen gewinnen und Upgrades freischalten) 
+
 - GTA V
+  - Drei Hauptfiguren (Michael, Franklin, Trevor) mit dem Hauptziel durch kriminelle Aktivitäten reich zu werden 
+  - Figuren können während des Spiels gewechselt werden 
+  - Openworld-Game mit vielen Haupt- und Nebenmissionen 
+  - Online-Modus sehr beliebt, da eigener Charakter erstellt werden kann und Missionen vorkommen, die im Story-Modus nicht existieren 
+
 - Mario Bros
+  - Hauptfigur Mario wird von den Spieler:innen durch verschiedene Levels gesteuert, um die Figur Peach vom Bösewicht Bowser zu retten 
+  - Mario muss Hindernisse überwinden, indem er darüber springt und läuft
+  - Spiel besitzt Levelsystem
+    - Spieler:innen schalten nächstes Level frei, wenn sie ein Level bis zu Ende erreichen 
+
 - Rocket League
+  - Sport-Videospiel bei dem raketenbetriebenes Auto ein großen Ball in das gegnerische Tor befördern muss
+  - Spieler:innen treten gegeneinander an 
+  - Team mit den meisten Toren gewinnt
+
 - CSGO
+  - Taktischer Egoshooter mit zwei Teams, die in Runden gegeneinander antreten 
+  - Teams: Terroristen und Antiterroreinheit 
+  - Verschiedene Modi: Bombenentschärfung oder Geiselbefreiung 
+
 - Die Sims
+  - Lebenssimulation, bei dem Spieler:innen alltägliche Entscheidungen für die Spielfiguren treffen 
+    - Entscheidung über Karriere, Beziehungen, Familie, Bedürfnisse
+  - Spielfiguren können selber gestaltet werden und Familienkonstellationen können erstellt werden 
+  - Spiel hat kein festes Ziel 
+
 
 ## Erwartungen
 - passender Output relativ zum Spiel -> sinnvoll
