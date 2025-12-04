@@ -79,8 +79,8 @@ Arbeitsschritte:
 
 
 ## Erwartungen
-- passender Output relativ zum Spiel -> sinnvoll
-- unterschiedlicher aber hilfreicher Output -> unterschiedliche Schwerpunkte
+- Passender Output relativ zum Spiel -> sinnvoll
+- Unterschiedlicher aber hilfreicher Output -> unterschiedliche Schwerpunkte
 - LLM passt sich an Spielsituationen an -> unterschiedlicher Spielerfortschritt
 - LLM erkennt Erfahrungsgrad
 
@@ -91,8 +91,8 @@ Arbeitsschritte:
 Link zu den Prompts: https://docs.google.com/document/d/1fMDqfHUw0yT0HTISEm5VabPPTOkJ8DH3F__uapGrnPY/edit?usp=sharing
 
 ### Situationen
-- von Spiel abhängig
-- brenzlige Situationen -> unbedingte Hilfe nötig
+- Von Spiel abhängig
+- Brenzlige Situationen -> unbedingte Hilfe nötig
 
 ### Zielgruppen
 - Anfänger:in
