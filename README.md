@@ -105,7 +105,9 @@ Link zu den Prompts: https://docs.google.com/document/d/1fMDqfHUw0yT0HTISEm5VabP
 
 ## Ergebnisse
 ### Beispiel-Screenshots für deepseek-r1:8b und Llama3.1:8b
+Deepseek:
 ![Deepseek](OpenLLM_Example_Screenshot/Deepseek_EASportsFC_Example.png)
+Llama:
 ![Llama](OpenLLM_Example_Screenshot/llamaTest_AssassinsCreed_Example.png)
 
 
