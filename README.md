@@ -18,14 +18,14 @@ Arbeitsschritte:
 - [deepseek-r1:8b](https://ollama.com/library/deepseek-r1:8b)
 
 ## Games
-- Assassins Creed Shadows
+- Assassin's Creed Shadows
   - Action Adventure Spiel im Japan des 16. Jahrhunderts 
   - Machtkämpfe zwischen Fürsten 
   - Zwei Hauptfiguren: Naoe (Shinobi) und Yasuke (Samurai) 
   - Hauptfiguren tragen Konflikt zwischen Assassinen und Templern aus 
   - Vorgegebener Spielverlauf
 
-- Assassins Creed Origins
+- Assassin's Creed Origins
   - Action Adventure im antiken Ägypten 
   - Eine Hauptfigur: Bayek (Medjay = Nomadischer Krieger)
   - Hauptfigur rächt die Ermodrung seines Sohnes und gründet die Bruderschaft der Assassinen  
@@ -104,6 +104,10 @@ Link zu den Prompts: https://docs.google.com/document/d/1fMDqfHUw0yT0HTISEm5VabP
 ## Chats
 
 ## Ergebnisse
+### Beispiel-Screenshots für deepseek-r1:8b und Llama3.1:8b
+![Deepseek](OpenLLM_Example_Screenshot/Deepseek_EASportsFC_Example.png)
+![Llama](OpenLLM_Example_Screenshot/llamaTest_AssassinsCreed_Example)
+
 
 ### Bewertungskriterien
 
