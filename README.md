@@ -1,4 +1,4 @@
-# OpenLLM-Project
+# OpenLLM-Project Tipps zu verschiedenen Videospielen
 Erstellt mit Python 3.14
 
 ## Beschreibung
