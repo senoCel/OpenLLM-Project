@@ -1,28 +1,35 @@
 import ollama
 import time
 
-start = time.time()
+modelle = [
+    "deepseek-r1:8b",
+    "mistral:7b",
+    "falcon3:7b",
+    "llama3.1:8b",
+    "qwen2.5:7b",
+]
 
-stream = ollama.chat(
-    model="qwen2.5:7b",
-    stream=True,
-    options={
-        "temperature": 0.2,
-        "seed": 0,
+messages = [
+    {
+        "role": "system",
+        "content": "Du bist ein hilfreicher Assistent, der wenn nötig Tipps für Videospiele geben kann:",
     },
-    messages=[
-        {
-            "role": "system",
-            "content": "You are a helpful assistant that provides tips for the computer game Minecraft:",
-        },
-        {
-            "role": "user",
-            "content": "What are 5 useful tips for the computer game Minecraft?",
-        },
-    ],
-)
+    {
+        "role": "user",
+        "content": "Beschreibe die Spielwelt von Assasins Creed Shadows und deren wichtigsten Merkmale.",
+    },
+]
 
-response = "".join([chunk["message"]["content"] for chunk in stream])
-end = time.time()
-print(response)
-print(f"Antwortzeit: {end - start:.2f} Sekunden")
+for modell in modelle:
+    start = time.time()
+    stream = ollama.chat(
+        model=modell,
+        stream=True,
+        options={"temperature": 0.3, "seed": 0},
+        messages=messages,
+    )
+    response = "".join([chunk["message"]["content"] for chunk in stream])
+    end = time.time()
+    print(f"\n{modell}:")
+    print(response)
+    # print(f"Antwortzeit: {end - start:.2f} Sekunden")
