@@ -85,6 +85,16 @@ Arbeitsschritte:
 - LLM erkennt Erfahrungsgrad
 
 ## Prompts
+
+### Rolle System:
+```
+    {
+        "role": "system",
+        "content": "Du bist ein hilfreicher Assistent, der wenn nötig Tipps für Videospiele geben kann:",
+    },
+```
+
+
 ### Spielübergreifende Prompts 
 ### Zielgruppenspezifische Prompts 
 ### Situationsbedingte Prompts 
