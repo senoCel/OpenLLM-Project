@@ -66,7 +66,6 @@ Arbeitsschritte:
     },
 ```
 
-
 ### Spielübergreifende Prompts 
 ### Zielgruppenspezifische Prompts 
 ### Situationsbedingte Prompts 
@@ -86,12 +85,6 @@ Link zu den Prompts: https://docs.google.com/document/d/1fMDqfHUw0yT0HTISEm5VabP
 ## Chats
 
 ## Ergebnisse
-### Beispiel-Screenshots für deepseek-r1:8b und Llama3.1:8b
-Deepseek:
-![Deepseek](OpenLLM_Example_Screenshot/Deepseek_EASportsFC_Example.png)
-Llama:
-![Llama](OpenLLM_Example_Screenshot/llamaTest_AssassinsCreed_Example.png)
-
 ### [Assasins Creed: Shadows](https://docs.google.com/document/d/1e80PbVGQ1_RhQTtlTwsRTSMBhmZd-nRYsdCztk5WZu4/edit?usp=sharing)
 ### [Assasins Creed: Origins](https://docs.google.com/document/d/1v2reows3Iw11gAy1Z8Gv2Mdm9-62-73FYIq77fnmMHI/edit?usp=sharing)
 ### [EA Sports FC](https://docs.google.com/document/d/1ANVyMGvtGeO-5kBpLJdUSD3Qe_SjhZRSl7UB-A2lrw4/edit?usp=sharing)
